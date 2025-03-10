@@ -1,4 +1,4 @@
 function buscarVuelos() {
-    alert("Funcionalidad de búsqueda de vuelos próximamente...");
-  }
-  
+  const resultado = "Vuelo disponible: Santiago → Lima, 15 de abril, $350 USD";
+  alert(resultado);
+}

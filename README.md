@@ -15,3 +15,8 @@ Este es un proyecto básico de una agencia de viajes con funcionalidades de bús
 2. Haz tus cambios y realiza un commit.
 3. Abre un pull request para revisión.
 4. Comenta en los pull requests de tus compañeros.
+# agencia-viajes-web
+Programación Web II
+
+## Nueva funcionalidad: Búsqueda de vuelos
+Aquí se implementará la búsqueda interactiva de vuelos.
